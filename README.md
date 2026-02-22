@@ -3,7 +3,7 @@
 ## Overview
 Cyber Escape is a high-octane, first-person parkour shooter developed in **Unity 2019.4 LTS**. You play as Jack, a prisoner attempting to escape a high-tech facility. The project focuses on high-speed movement mechanics, fluid gunplay, and a robust architectural foundation using professional design patterns.
 
-**[🎮 Play it on itch.io]([https://tu-link-de-itch-io](https://rangelsebas.itch.io/cyber-escape))** 
+**[Play it on itch.io]([https://tu-link-de-itch-io](https://rangelsebas.itch.io/cyber-escape))** 
 
 ## Technical Highlights
 This project was built with a focus on **Software Architecture** and **Physics-based Gameplay**:
